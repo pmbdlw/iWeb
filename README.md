@@ -1,5 +1,7 @@
 # iWeb
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TyrealGray/iWeb.svg)](https://greenkeeper.io/)
+
 ![iweb](https://github.com/TyrealGray/iWeb/blob/master/iweb_screenshot.gif)
 
 ### How to use:
